@@ -1,7 +1,7 @@
 ### Hi there, this is xbchen!👋
 
 <!-- - ✨ -->
-- :school: I’m currently a master as Tongji University in Shanghai.
+- :school: I’m currently an autonomous driving software engineer.
 - :seedling: I’m currently learning everything to be an DeepLearninger !
 - 🔭 I’m currently working on computer vision !
 - :runner: I love diversified sports, such as swimming, running, skiing...
